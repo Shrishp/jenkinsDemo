@@ -4,4 +4,4 @@ whoami
 date
 hostname
 free -h
-systemctl status kubelet
+systemctl status ssh
